@@ -1,4 +1,4 @@
-# made with love /// murder#0001
+# made with love /// murder
 # this shit got skidded hard asf by some retards, just gonna release it. there is no help menu, look at the source for commands.
 
 #--------------------------------------------------------------------------------------------------
